@@ -1,0 +1,48 @@
+body {
+    color: #0f0f0f;
+}
+
+.jumbotron{
+background-image: url("https://media.sciencephoto.com/image/c0368246/800wm/C0368246-Bacterial_culture_from_the_umbilicus,_SEM.jpg");
+background-repeat: no-repeat, repeat;
+background-position: right; 
+background-size: cover;
+height: 100%;
+padding-top: 50px;
+font-weight: bold;
+margin-top: 100px;
+margin-bottom: 100px;
+padding: 100px;
+border-radius: 50px;
+box-shadow: 10px 10px 5px 0px rbga(0,0,0,1);
+
+}
+
+.jumbotron h1 {
+    color: #fff;
+    font-size: 50px;
+    font-variant-position: super;
+    font-weight: bold;
+}
+
+.jumbotron p {
+    color: #fff;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.jumbotron h5 {
+    color: #fff;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.well {
+    background: rgba(176, 82, 241, 0.8);
+    
+}
+
+.panel-default > .panel-heading {
+    background: rgba(176, 82, 241, 0.8);
+    color: #fff;
+  }
