@@ -1,4 +1,4 @@
 # Belly-Button-Biodiversity
 
 ## Website created for this challenge
-<a href="https://teresawehmeier.github.io/plotlyDeploy/" target="_blank">Belly Button Biodivesity</a>
+<a href="https://teresawehmeier.github.io/plotlyDeploy/">Belly Button Biodivesity</a>
